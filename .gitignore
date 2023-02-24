@@ -8,6 +8,7 @@ images/
 *.gz
 data/
 1268-0.txt
+MNIST/
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
